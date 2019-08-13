@@ -21,10 +21,10 @@ description: Engineer. Mountain Biker
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  Contact Me:
+    - Twitter: "https://twiiter.com/bikingengineer"
+    - Github: "https://github.com/stefanoruiz"
+#  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -69,7 +69,6 @@ author:
 social-network-links:
   rss: true
   email: "stefanovruiz@hotmail.com"
-  facebook: deanattali
   github: stefanovruiz
   twitter: bikingengineer
   reddit: yourname
